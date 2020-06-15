@@ -1,2 +1,2 @@
 # exercism
-Katas on exercism.io
+Katas on [exercism.io](https://exercism.io/)
